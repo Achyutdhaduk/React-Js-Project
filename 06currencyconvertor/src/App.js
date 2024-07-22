@@ -54,7 +54,7 @@ return (
                           onCurrencyChange={(currency)=>setAmount(amount)}
                           selectCurrency={from}
                           onAmountChange={(amount)=>
-                          setAmount(amount  )}
+                          setAmount(amount)}
                           
                       />
                   </div>

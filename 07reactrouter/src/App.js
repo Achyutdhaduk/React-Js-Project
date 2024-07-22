@@ -16,7 +16,7 @@ function App() {
    <Footer></Footer>
   
     
-    <h1 className='bg-green-600'>React router</h1>
+     <h1 className='bg-green-600'>React router</h1>
    </>
   );
 }
