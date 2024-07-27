@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+  color: white;
+
+}
+
+.header {
+  text-align: center;
+  background-color: rgb(23, 32, 135);
+  padding: 8px;
+}
+
+.Main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 90vh;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 14px;
+}
+.buttons{
+display: flex;
+justify-content: center;
+align-items: center;
+
+}
+.btn{
+  background-color: blue;
+  color: white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.heading{
+      color: black;
+      font-size: x-large;
+}
+/* .movie {
+  background-color: rgb(161, 159, 159);
+  color: black;
+  border: 1px solid gray;
+  padding: 3px;
+  font-weight: bold;
+  text-align: start;
+  width: 22%;
+  margin-top: 14px;
+}
+
+.movie img {
+  height: 220px;
+  width: 100%; */
+/* }
+ */
+
+
